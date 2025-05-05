@@ -1,0 +1,478 @@
+[[IRBEM]]
+arch = "aarch64"
+git-tree-sha1 = "82ee27e5f5983d69736989f896ee45f86d996e41"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[IRBEM.download]]
+    sha256 = "a30755eaf40793ec1b9fadaafcff2430faf1f02f18e1489172d29a6837809ff4"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[IRBEM]]
+arch = "aarch64"
+git-tree-sha1 = "af951c9d3d10d089fc9585264d58133d03f59559"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[IRBEM.download]]
+    sha256 = "209c5fdf1ca3261f8f63886b611b85e4e745183fadd8d1847be762d527218452"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.aarch64-linux-gnu-libgfortran3.tar.gz"
+[[IRBEM]]
+arch = "aarch64"
+git-tree-sha1 = "bbeab215217c34f0802aeaf309dbd7d537d53bf2"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[IRBEM.download]]
+    sha256 = "6221b8b7b505cc731d993dd1145d59a873aa3cbf21119cc57ff25a5a552a8834"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[IRBEM]]
+arch = "aarch64"
+git-tree-sha1 = "6472836c64a2e19b80448719849e64b69f8dd7a2"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[IRBEM.download]]
+    sha256 = "f3e80280a085b55d8ace7d022ac40d9324941bf977e04fb3c9808a710b308a53"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[IRBEM]]
+arch = "aarch64"
+git-tree-sha1 = "6f037d4938a184cf70944ff0dba8dc558cd8b7cc"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[IRBEM.download]]
+    sha256 = "4dd17b8b74942c22061bfa571dcbf0a45098648c7178c79998634ee2e3197062"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.aarch64-linux-musl-libgfortran3.tar.gz"
+[[IRBEM]]
+arch = "aarch64"
+git-tree-sha1 = "1bbbe253f7536e5cb37859721bd53c97950bb94d"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[IRBEM.download]]
+    sha256 = "ef9e1527ff2513ac146f667e1d4493c14b5dc755c883a7dbe52eb89ea74b80c0"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.aarch64-linux-musl-libgfortran4.tar.gz"
+[[IRBEM]]
+arch = "aarch64"
+git-tree-sha1 = "f11eb73f1f4c4be46745f52252435393a8ae08d7"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[IRBEM.download]]
+    sha256 = "4ef69fb69f72d2ec8bf7b6fb773e2ec18541a55efeee8d1b1d6bc3560f84a577"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.aarch64-linux-musl-libgfortran5.tar.gz"
+[[IRBEM]]
+arch = "aarch64"
+git-tree-sha1 = "e2af65d6e17a262d21f5425792047d659d316d68"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[IRBEM.download]]
+    sha256 = "2cfd1334e337737866d69243a6d8401831b66e92cee31a730e580882f0c57271"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.aarch64-unknown-freebsd-libgfortran5.tar.gz"
+[[IRBEM]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "132b9a7e4bad54a771554ef878449d79f5422ceb"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[IRBEM.download]]
+    sha256 = "17b66cfccc79b29503b392ec32a365debbdf256686f9321a6117032774ea78ac"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+[[IRBEM]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "d232689a3abf60efe1d9e0e822071393382bc8f8"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[IRBEM.download]]
+    sha256 = "6f309045573cbbb249d3ae582c4451a95b6f0aa5a6f82a305b64566f081f3c50"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+[[IRBEM]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "20d4b08dba38635b9b1551354740cade4d5bdb25"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[IRBEM.download]]
+    sha256 = "b0b30a46e16130a6fc64c1e6e8d379378dbfc48350b1e7366127e871e5cdaaa5"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+[[IRBEM]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "a7639f3d920ed7b5bba6c6e8fc97c07b3e8ba1f8"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[IRBEM.download]]
+    sha256 = "06553d753290e12c14eacd79b48f04cbe25a0d618a6c816f3f062e44be6b0868"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.armv6l-linux-musleabihf-libgfortran3.tar.gz"
+[[IRBEM]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "7c39b8e67127626750d83ac85cd57df77f40b1fb"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[IRBEM.download]]
+    sha256 = "3f2af3fcfeb5b9e86b46f810d062ff3746b364ca812c0e5fb90bc20ba3ac492c"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.armv6l-linux-musleabihf-libgfortran4.tar.gz"
+[[IRBEM]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "eba43d67acd96b8001155d491db2a6819fccdbeb"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[IRBEM.download]]
+    sha256 = "5acebcfdb0a8137f25c30a49cf3d16dc6f8545bd7d2c5955823343551cc485f9"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+[[IRBEM]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "e5958f3205c0e91d24cb19567b2a708acc20e6ee"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[IRBEM.download]]
+    sha256 = "12705de3093dfb2a6d06be18b48702cc0dc5cd8eae1d3f5088b18f617dd02808"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+[[IRBEM]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "00a9d0178aeb96b07171ba7063a8fd4cfe38c159"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[IRBEM.download]]
+    sha256 = "9c8cea367e8ec9ee0508a4bf3e34d726297dc260b56c8b588820118e26dfc408"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[IRBEM]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "9aacf0242b6d625154781e1226007577b3403f1a"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[IRBEM.download]]
+    sha256 = "6b3b2e2050c5b4fcbaa8ac08764de6d975c5496fc1d75fcc338a1727a956b3ff"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[IRBEM]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "9f954d497fc486b91f3a325b07c0fe35c5c82863"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[IRBEM.download]]
+    sha256 = "c807c0df1f5df057a8302dba4720ec22bfe0bfa2c3a16544871bd23a9bb6ad7d"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+[[IRBEM]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "9d3f03ba8be25757dc0933417e8459288712a815"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[IRBEM.download]]
+    sha256 = "84a3e4c3cf9f8a531a4fae230403b13c94b4d55e41cb301aa4bd915e10be579b"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+[[IRBEM]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "b3daf5e10d54b155c4b785d5801eb99fb222e3ef"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[IRBEM.download]]
+    sha256 = "d69bce4a390f73fb55a5e92a6dd13fe4dc2fc7713db20f5029e59a93ad40ec34"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+[[IRBEM]]
+arch = "i686"
+git-tree-sha1 = "69ab8c15df164ff11b08816bd4a81059abd79cbc"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[IRBEM.download]]
+    sha256 = "d0ab7698d52307ca5d6b19e623569021caef7cf24338c25f8930423298a572d0"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.i686-linux-gnu-libgfortran3.tar.gz"
+[[IRBEM]]
+arch = "i686"
+git-tree-sha1 = "7cd8c76addf3497500d22eab952427aea6dc5bb3"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[IRBEM.download]]
+    sha256 = "aea7538d4a6a207297b1beac79a8aa3f1442ad5196562396ece36284ce0b643c"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.i686-linux-gnu-libgfortran4.tar.gz"
+[[IRBEM]]
+arch = "i686"
+git-tree-sha1 = "c76f5893c8a37381062c04684f91aa81f9f3d891"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[IRBEM.download]]
+    sha256 = "df63cc7e24e2c45b70ec6242ed3b43f6fdfc4ddceae912bd89da79d61590c337"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.i686-linux-gnu-libgfortran5.tar.gz"
+[[IRBEM]]
+arch = "i686"
+git-tree-sha1 = "2a412006b2f9680f2fdb26feac0922ec16faf648"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[IRBEM.download]]
+    sha256 = "ce789cc980f882b758760bf9643d1679d53cd320e84ea8d53b6b1957a1da85dd"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.i686-linux-musl-libgfortran3.tar.gz"
+[[IRBEM]]
+arch = "i686"
+git-tree-sha1 = "97067cf523c5cd81b0026b46754469d507db79f2"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[IRBEM.download]]
+    sha256 = "ea1c60be293569ee5cc5c1479654eb98568f7fded432e2faef06ddd0bad9ad1a"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.i686-linux-musl-libgfortran4.tar.gz"
+[[IRBEM]]
+arch = "i686"
+git-tree-sha1 = "551b3d7744a0191fe31870e67602e672ff21c04d"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[IRBEM.download]]
+    sha256 = "f590fc2d0f3d0820a3385ba8862ba61cdd22f95045a3339164d7c7acd6a78cc1"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.i686-linux-musl-libgfortran5.tar.gz"
+[[IRBEM]]
+arch = "i686"
+git-tree-sha1 = "f20b8c65bff6f79a582ce187d90103968a1eeecd"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[IRBEM.download]]
+    sha256 = "523cd8f332df64d9d3b16e3cdc957bfdcbe3028cdcab1587e0ad0e6d4da74e8a"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.i686-w64-mingw32-libgfortran3.tar.gz"
+[[IRBEM]]
+arch = "i686"
+git-tree-sha1 = "db002f115bb242b7393be649e151db6de0234671"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[IRBEM.download]]
+    sha256 = "c7515ed1ffc193ed165317f4c9b92b986d9e60e3a010435831d4371aca4b783c"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.i686-w64-mingw32-libgfortran4.tar.gz"
+[[IRBEM]]
+arch = "i686"
+git-tree-sha1 = "23af245bbbf73c7510d58b418960b551fbf04670"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[IRBEM.download]]
+    sha256 = "44d96d2bf3f5e97d2baeb6d4ac2210ddd8fe72c9115c6e1082e49fcf3b24ab4c"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.i686-w64-mingw32-libgfortran5.tar.gz"
+[[IRBEM]]
+arch = "powerpc64le"
+git-tree-sha1 = "505e78d3e08710b98990464c10eabb8673c85bd5"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[IRBEM.download]]
+    sha256 = "2ec536f73157027287d8046b892833902ad6f441f154a543f11fa27a27364aa9"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+[[IRBEM]]
+arch = "powerpc64le"
+git-tree-sha1 = "6615baf12a31c2d081c37916323bcf44ab48edfd"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[IRBEM.download]]
+    sha256 = "57ce3cb12179b0ef89a45cbff8747dc4889fab4841bd66930af07324ffb5e988"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[IRBEM]]
+arch = "powerpc64le"
+git-tree-sha1 = "b22c099764a399f78c0f59ef091906059950a7bf"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[IRBEM.download]]
+    sha256 = "88c91f39333101821cc9f04da867773d675a75380d4dbf7c95b18a2314ff6f09"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[IRBEM]]
+arch = "riscv64"
+git-tree-sha1 = "1f631fffb3cd19f3ec1b03087bfda85c60e69c18"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[IRBEM.download]]
+    sha256 = "18ddd41c5f167716f4ad858ed28ac49c8597dd757e0444f0f87aab0d87d56256"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.riscv64-linux-gnu-libgfortran5.tar.gz"
+[[IRBEM]]
+arch = "x86_64"
+git-tree-sha1 = "dadf94fbbabcc2c2949ea060a5e23129c2ce194f"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[IRBEM.download]]
+    sha256 = "9445e643002d603981534bec7043763e32793c2598df0f04af6f7eca8bc5492c"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[IRBEM]]
+arch = "x86_64"
+git-tree-sha1 = "4a595367028b472e9fa9e583147999345fa7fc82"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[IRBEM.download]]
+    sha256 = "785edf3e4c53d9049719b84217a34863f940c3e838b73b3ad54fa21263059ce7"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[IRBEM]]
+arch = "x86_64"
+git-tree-sha1 = "c404a8ed3409278d58ede6d1cb0f01bc5e65ce97"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[IRBEM.download]]
+    sha256 = "99931f38d23184f6eadd2fea0c08fa50bb415dcad7261a2eb005ab202fbe099e"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[IRBEM]]
+arch = "x86_64"
+git-tree-sha1 = "e3be0373cb732f4a6b1045ddef3f8dd5f511adde"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[IRBEM.download]]
+    sha256 = "1343ffa031ee89d7bdca5654542428b5bbe8468aae0d2f9784b41a8b2e22ed35"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[IRBEM]]
+arch = "x86_64"
+git-tree-sha1 = "e495f4f3b99bcf8a1eabd198a7a1aac2acf76f28"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[IRBEM.download]]
+    sha256 = "c9df9909bc07fb9d8dc39d9826b0120366937bd2c0dca3daea38ed417b01a93b"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[IRBEM]]
+arch = "x86_64"
+git-tree-sha1 = "30e1b42decc61039f5357c3cc6897dd95aca4262"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[IRBEM.download]]
+    sha256 = "6cb820e4ab98dd07124bff5357d3f9dee794b17a093457cfd808c2b299c7547e"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[IRBEM]]
+arch = "x86_64"
+git-tree-sha1 = "1b3c3f9baeaa20cc66fa98854b60928750864fcc"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[IRBEM.download]]
+    sha256 = "008f9dc41ecfe23b64853942b3ec4df6eba51b77182b9d31f42676e3d6d6954d"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.x86_64-linux-musl-libgfortran3.tar.gz"
+[[IRBEM]]
+arch = "x86_64"
+git-tree-sha1 = "707b2ea78c3c72c0c385cd73f03808585b741a34"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[IRBEM.download]]
+    sha256 = "71386a5f2137b4c3f502875e01935e905dc939e260f45594cedbda3fdab8a32c"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.x86_64-linux-musl-libgfortran4.tar.gz"
+[[IRBEM]]
+arch = "x86_64"
+git-tree-sha1 = "5ed52b3bd0c4b8bbf447104875f340698b0af5d7"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[IRBEM.download]]
+    sha256 = "1334b3fa75b269830fccb8850217b463912d8b58a348e8367e0d59b6bdca5c8f"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.x86_64-linux-musl-libgfortran5.tar.gz"
+[[IRBEM]]
+arch = "x86_64"
+git-tree-sha1 = "5d7cfe321c95e4f6e78c46b632a803dfb0f2a902"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[IRBEM.download]]
+    sha256 = "98b66b33739ef2235be084932d1c0672c971420e667829011534aa5e2311defc"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+[[IRBEM]]
+arch = "x86_64"
+git-tree-sha1 = "25aa980f513a88c5881bc24f95d5a17e5a42f993"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[IRBEM.download]]
+    sha256 = "d98d9c374ac4576be167a80971a18ae50386fb2cc7d62d288830e94567ce0576"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+[[IRBEM]]
+arch = "x86_64"
+git-tree-sha1 = "5dc3e5a09e7601d1d92293d5005c21d4d6fe30e6"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[IRBEM.download]]
+    sha256 = "0663d1ca3878b30009fc3765d9472b0e67c5e174d8cf8856916255f840548568"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+[[IRBEM]]
+arch = "x86_64"
+git-tree-sha1 = "b04639513a2456223deeb48e91cb6d27ce80b64d"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[IRBEM.download]]
+    sha256 = "3392cb7639d7070f01619e9cac28bcf54ab81998eaa24737862c7f7c6fcc0287"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[IRBEM]]
+arch = "x86_64"
+git-tree-sha1 = "a41a44dd09f3ce95005504262185dd480feebe5f"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[IRBEM.download]]
+    sha256 = "ba2699864efd54bba8fff6c77f01c102424b7dc60c01bb8fc963d0e65e7eb780"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[IRBEM]]
+arch = "x86_64"
+git-tree-sha1 = "724b69ef9f6207bbcae47dc6945d86bcb6fcf9bf"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[IRBEM.download]]
+    sha256 = "08d7fe3426e6fe0135c8e4abd642edbb944c172e52a70277585d403510dd9066"
+    url = "https://github.com/JuliaBinaryWrappers/IRBEM_jll.jl/releases/download/IRBEM-v5.0.0+0/IRBEM.v5.0.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
